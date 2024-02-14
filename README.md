@@ -27,6 +27,7 @@ Operating system:
 * Ubuntu 20.04 with kernel 5.8.18-050818-generic
 
 Tools:
+* Open vSwitch 2.13.8
 * Podman 4.4.0
 * runc 1.1.6
 * CRIU 3.16.1
