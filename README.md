@@ -1,7 +1,9 @@
 # COAT
 
 This is the experiment code and result for COAT (Container OverlAy TCP) enhanced stateful container migration under COAT network architecture (as the figure below shows).
-![COAT architecture](./attachments/COAT_architecture.png)
+
+![COAT architecture](./attachments/COAT_architecture.png){width=80%}
+
 For the detail of this study, please find in our publication:
 
     @inproceedings{yu2023tcp,
